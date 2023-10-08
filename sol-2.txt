@@ -1,0 +1,11 @@
+Absolute Positioning:
+
+1. Absolute positioning is like telling an element on a web page exactly where it should be located based on a specific reference point.
+2. Imagine you have a map, and you want to place a pin on a precise set of coordinates (latitude and longitude). Absolute positioning is similar in that you're specifying the exact coordinates for an element.
+3. In web development, when you use absolute positioning for an element, you're specifying its position relative to its nearest positioned ancestor. If there's no positioned ancestor, it's positioned relative to the initial containing element, usually the whole webpage.
+
+Relative Positioning:
+
+1. Relative positioning is about positioning an element relative to where it would normally be in the document flow.
+2. Think of it like placing an object on a table. If you move the object 10 centimeters to the right from its original position on the table, you're using relative positioning.
+3. In web development, when you use relative positioning for an element, you're shifting its position from where it would normally appear in the document flow. It doesn't affect other elements' positions; they stay in their default flow.
